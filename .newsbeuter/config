@@ -1,0 +1,8 @@
+browser firefox
+color listfocus white black
+color info white black
+color article white default
+color listfocus_unread white black
+download-path /home/berat/Schreibtisch/
+max-downloads 2
+
